@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiv95&label=Profile%20views&color=0e75b6&style=flat" alt="maxiv95" /> </p>
 
-- 💬 Ask me about **JavaScript, node, express, vite and redux toolkit**
-
-- 📫 How to reach me **maximilianovanmegroot@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <span align="left">
 <a href="https://www.linkedin.com/in/maximilianovanmegroot" ><img width="5%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> &nbsp;&nbsp;
