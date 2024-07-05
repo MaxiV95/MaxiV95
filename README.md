@@ -21,3 +21,4 @@
 ![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![angular](https://img.shields.io/badge/-Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
